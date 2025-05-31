@@ -1,7 +1,8 @@
 import random
 import time
-import webbrower
+import webbrowser
 import base64
+import discord
 import requests
 from os import system
 from colorama import init, Fore, Style
