@@ -17,6 +17,8 @@ menu = f """
                                                                            
 """
 
+print(menu)
+
 if os.name == 'nt':  # Windows
     os.system('cls')
 else:  # Linux/Unix/MacOS
